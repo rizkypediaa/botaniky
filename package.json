@@ -1,0 +1,8 @@
+{
+  "name": "aniky-callback",
+  "version": "1.0.0",
+  "description": "Vercel serverless callback handler for AniKy.id orders",
+  "dependencies": {
+    "@vercel/kv": "^1.0.0"
+  }
+}
