@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/callback.js": {
+      "maxDuration": 10
+    },
+    "api/orders/pending.js": {
+      "maxDuration": 10
+    },
+    "api/orders/[ref]/ack.js": {
+      "maxDuration": 10
+    }
+  }
+}
